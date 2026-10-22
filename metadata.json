@@ -1,0 +1,6 @@
+{
+  "name": "ZOON — LESS IS MORE",
+  "description": "ZOON متجر بسيط وفاخر للمنتجات المختارة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
